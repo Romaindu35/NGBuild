@@ -1,0 +1,134 @@
+{
+  "low": {
+    "plants": {
+      "global": 0.5,
+      "kelp": {
+        "global": 0.1,
+        "tall": 0.5
+      },
+      "bubbleTree": 0.01,
+      "seaGrass": {
+        "global": 0.33,
+        "tall": 0.5
+      },
+      "magma": 0.1
+    },
+    "structures": {
+      "global": 0.25,
+      "petrol": 0.25,
+      "cheminee": 0.25,
+      "bateau1": 0.25,
+      "coral": {
+        "global": 0.25,
+        "plant": 0.25,
+        "rail": 0.2,
+        "tree": 0.2,
+        "cage": 0.2
+      }
+    },
+    "chestLoot": {
+      "bateau1": [
+        {
+          "proba": 0.5,
+          "itemID": 25,
+          "quantity": 2,
+          "metadata": 0
+        },
+        {
+          "proba": 0.5,
+          "itemID": 25,
+          "quantity": 4,
+          "metadata": 0
+        }
+      ]
+    }
+  },
+  "medium": {
+    "plants": {
+      "global": 0.5,
+      "kelp": {
+        "global": 0.1,
+        "tall": 0.5
+      },
+      "bubbleTree": 0.01,
+      "seaGrass": {
+        "global": 0.33,
+        "tall": 0.5
+      },
+      "magma": 0.1
+    },
+    "structures": {
+      "global": 0.25,
+      "petrol": 0.25,
+      "cheminee": 0.25,
+      "bateau1": 0.25,
+      "coral": {
+        "global": 0.25,
+        "plant": 0.25,
+        "rail": 0.2,
+        "tree": 0.2,
+        "cage": 0.2
+      }
+    },
+    "chestLoot": {
+      "bateau1": [
+        {
+          "proba": 0.5,
+          "itemID": 25,
+          "quantity": 2,
+          "metadata": 0
+        },
+        {
+          "proba": 0.5,
+          "itemID": 25,
+          "quantity": 4,
+          "metadata": 0
+        }
+      ]
+    }
+  },
+  "high": {
+    "plants": {
+      "global": 0.5,
+      "kelp": {
+        "global": 0.1,
+        "tall": 0.5
+      },
+      "bubbleTree": 0.01,
+      "seaGrass": {
+        "global": 0.33,
+        "tall": 0.5
+      },
+      "magma": 0.1
+    },
+    "structures": {
+      "global": 0.25,
+      "petrol": 0.25,
+      "cheminee": 0.25,
+      "bateau1": 0.25,
+      "coral": {
+        "global": 0.25,
+        "plant": 0.25,
+        "rail": 0.2,
+        "tree": 0.2,
+        "cage": 0.2
+      }
+    },
+    "chestLoot": {
+      "bateau1": [
+        {
+          "proba": 0.5,
+          "itemID": 25,
+          "quantity": 2,
+          "metadata": 0
+        },
+        {
+          "proba": 0.5,
+          "itemID": 25,
+          "quantity": 4,
+          "metadata": 0
+        }
+      ]
+    }
+  }
+}
