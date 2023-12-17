@@ -1,2 +1,2 @@
-%LocalAppData%\NationsGlory\java\bin\java.exe -jar server.jar
+%AppData%\.NationsGlory\binaries\java\bin\java.exe -jar server.jar
 pause
